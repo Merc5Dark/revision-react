@@ -1,5 +1,10 @@
 function App () {
-  return <p>Welcome React Component😋</p>
+  return (
+    <div>
+      <section>Section Tag</section>
+      <article>Article Tag</article>
+    </div>
+  );
 }
 
 export default App;
