@@ -1,9 +1,8 @@
+import Add from "./components/Add";
+
 function App () {
   return (
-    <div>
-      <section>Section Tag</section>
-      <article>Article Tag</article>
-    </div>
+    <Add />
   );
 }
 
